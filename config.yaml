@@ -81,11 +81,11 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
+      - image: lbs.jpeg
         subtitle: My Resume
         title: Project 1
         url: blogs/aliquam
-      - image: scooby_pic.jpg
+      - image: scooby_pic.jpeg
         subtitle: A little about me
         title: Project 2
         url: blogs/tempus
