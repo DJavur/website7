@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Disha. Welcome to my portfolio
+    title: Hi, my name is Disha. Welcome to my Portfolio!
   blog: {}
   contact: 
     address:
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: The Disha Daily Co.
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -81,11 +81,11 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: main_group_pic.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Project 1
         url: blogs/aliquam
-      - image: pic02.jpg
+      - image: scooby_pic.jpg
         subtitle: Feugiat Amet Tempus
         title: Project 2
         url: blogs/tempus
