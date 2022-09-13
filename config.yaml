@@ -36,10 +36,10 @@ params:
   footer:
     copyright: The Disha Daily Co.
     enable: yes
-    quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+    # quicklinks:
+    #   - alt: HTML5 UP
+    #     text: 'Design: '
+    #     url: https://www.html5up.net
     social:
       #- icon: fa-twitter
       #  label: Twitter
@@ -81,12 +81,12 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpeg
-        subtitle: My Resume
-        title: Project 1
+        subtitle: A look at my academic and professional achievements
+        title: My Resume
         url: blogs/aliquam
       - image: scooby_pic.jpeg
-        subtitle: A little about me
-        title: Project 2
+        subtitle: Click here to find out more
+        title: A little about me
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
@@ -105,13 +105,13 @@ params:
       #   title: Project 6
       #   url: blogs/ipsum
   two:
-    # buttonText: Get Started
-    # enable: yes
-    # subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-    #   \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-    #   condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-    #   pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-    #   Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-    #   amet pharetra et feugiat tempus."
-    # title: Massa libero
-    # url: blogs
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+      amet pharetra et feugiat tempus."
+    title: Massa libero
+    url: blogs
