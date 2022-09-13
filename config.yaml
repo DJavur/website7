@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      A BEAUTIFUL WEBSITE CREATED BY ME AND RELEASED BECAUSE ITS A PART OF MY ASSIGNMENT.
     title: Hi, my name is Disha. Welcome to my Portfolio!
   blog: {}
   contact: 
@@ -93,18 +92,18 @@ params:
         subtitle: Lorem Etiam Nullam
         title: Project 3
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Project 4
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Project 5
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Project 6
-        url: blogs/ipsum
+      # - image: pic04.jpg
+      #   subtitle: Nisl Sed Aliquam
+      #   title: Project 4
+      #   url: blogs/ipsum
+      # - image: pic05.jpg
+      #   subtitle: Ipsum Dolor Sit Amet
+      #   title: Project 5
+      #   url: blogs/ipsum
+      # - image: pic06.jpg
+      #   subtitle: Feugiat Amet Tempus
+      #   title: Project 6
+      #   url: blogs/ipsum
   two:
     # buttonText: Get Started
     # enable: yes
