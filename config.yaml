@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: main_group_pic.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Project 1
         url: blogs/aliquam
