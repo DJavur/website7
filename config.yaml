@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A BEAUTIFUL WEBSITE CREATED BY ME AND RELEASED BECAUSE ITS A PART OF MY ASSIGNMENT. HAVE FUN EXPLORING!
+      A BEAUTIFUL WEBSITE CREATED BY ME AND RELEASED BECAUSE IT'S A PART OF MY ASSIGNMENT. HAVE FUN EXPLORING!
     title: Hi, my name is Disha. Welcome to my Portfolio!
   blog: {}
   contact: 
@@ -81,20 +81,20 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpeg
-        subtitle: A look at my academic and professional achievements
+        subtitle: A look at my academics, extracurriculars and professional achievements
         title: My Resume
         url: https://drive.google.com/file/d/13fm72R-787M34Gv7PEwAWuMhrDz1_L4R/view?usp=sharing
-      - image: scooby_pic.jpeg
+      - image: sunset.jpeg
         subtitle: Click here to find out more
         title: A little about me
-        url: blogs/tempus
+        url: blogs/blog1
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Project 3
+        title: Project 1
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Project 4
+        title: Project 2
         url: blogs/ipsum
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
