@@ -8,7 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A BEAUTIFUL WEBSITE CREATED BY ME AND RELEASED BECAUSE IT'S A PART OF MY ASSIGNMENT. HAVE FUN EXPLORING!
+      A BEAUTIFUL WEBSITE CREATED BY ME. HAVE FUN EXPLORING!
     title: Hi, my name is Disha. Welcome to my Portfolio!
   blog: {}
   contact: 
@@ -95,7 +95,7 @@ params:
       - image: imdb.jpeg
         subtitle: More about the movies analysis project
         title: IMDB Movies Analysis
-        url: blogs/ipsum
+        url: blogs/tempus
       # - image: pic05.jpg
       #   subtitle: Ipsum Dolor Sit Amet
       #   title: Project 5
