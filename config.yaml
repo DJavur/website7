@@ -91,7 +91,7 @@ params:
       - image: rent_sf.jpeg
         subtitle: More about the rental analysis project
         title: San Fransisco Rent Analysis
-        url: blogs/rent_sf
+        url: blogs/rentsf
       - image: imdb.jpeg
         subtitle: More about the movies analysis project
         title: IMDB Movies Analysis
