@@ -68,12 +68,14 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
+      - name: About me
+        url: blog/about_me
+      - name: CV
+        url: https://drive.google.com/file/d/11-Ecm08vg_h7BPmaY2naDXuF0jc4-n2r/view?usp=sharing
       - name: San Francisco Rent Analysis
         url: blogs/rent_sf
-      # - name: Elements
-      #   url: elements.html
+      - name: Climate Change Analysis
+        url: blogs/climate
     menu: Menu
     subtitle: Portfolio website
     title: Disha Javur's
