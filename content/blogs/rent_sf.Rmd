@@ -7,7 +7,7 @@ description: ""
 draft: false
 image: scooby_pic_2.jpeg
 keywords: ""
-slug: rent_sf
+slug: rent_sf_1
 title: Rental Analysis
 ---
 
@@ -121,7 +121,5 @@ rent %>%
 ```
 
 What can you infer from these plots? Don't just explain what's in the graph, but speculate or tell a short story (1-2 paragraphs max).
-
-> TYPE YOUR ANSWER AFTER (AND OUTSIDE!) THIS BLOCKQUOTE.
 
 > The general trend that can be seen across the cities in the Bay area is that the rent has decreased in the years following the dot.com bubble (2001-2004), after which it increased rapidly prior to the housing market crash and global financial crisis that started in 2007-2008. After 2010 rents started increasing rapidly again until the economic slowdown that commenced at the end of the decade.
