@@ -37,9 +37,9 @@ params:
     copyright: The Disha Daily Co.
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      # - alt: HTML5 UP
+      #   text: 'Design: '
+      #   url: https://www.html5up.net
     social:
       # - icon: fa-twitter
       #  label: Twitter
@@ -59,19 +59,19 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    # button1:
+    #   - name: Get Started
+    #     url: blogs
+    # button2:
+    #   - name: Log In
+    #     url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      # - name: Generic Blog
-      #   url: blogs/ipsum
+      - name: San Francisco Rent Analysis
+        url: blogs/rent_sf
       # - name: Elements
       #   url: elements.html
     menu: Menu
@@ -106,7 +106,7 @@ params:
       #   url: blogs/ipsum
   two:
     # buttonText: Get Started
-    enable: yes
+    # enable: yes
     subtitle: "My experience during my undergraduate studies and as an analyst has broadened my knowledge in terms of business and people skills. \n 
     Through my work in one of the fastest-growing AI and analytics startups in India, 
     I believe my cross-functional work experiences working for clients from across the globe have helped me build on my management and strategic skills. \n 
