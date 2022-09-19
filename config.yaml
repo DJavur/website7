@@ -36,17 +36,17 @@ params:
   footer:
     copyright: The Disha Daily Co.
     enable: yes
-    # quicklinks:
-    #   - alt: HTML5 UP
-    #     text: 'Design: '
-    #     url: https://www.html5up.net
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: https://www.html5up.net
     social:
-      #- icon: fa-twitter
-      #  label: Twitter
-       # url: https://www.twitter.com
-      #- icon: fa-facebook
-       # label: Facebook
-       # url: https://www.facebook.com
+      - icon: fa-twitter
+       label: Twitter
+      url: https://www.twitter.com
+      - icon: fa-facebook
+      label: Facebook
+      url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/dishajavur/?hl=en
@@ -60,20 +60,20 @@ params:
   name: Your name
   navigation:
     button1:
-    #   - name: Get Started
-    #     url: blogs
-    # button2:
-    #   - name: Log In
-    #     url: '#'
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      # - name: Generic Blog
-      #   url: blogs/ipsum
-      # - name: Elements
-      #   url: elements.html
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
     menu: Menu
     subtitle: Portfolio website
     title: Disha Javur's
@@ -83,27 +83,27 @@ params:
       - image: lbs.jpeg
         subtitle: A look at my academics, extracurriculars and professional achievements
         title: My Resume
-        url: https://drive.google.com/file/d/13fm72R-787M34Gv7PEwAWuMhrDz1_L4R/view?usp=sharing
+        url: https://drive.google.com/file/d/11-Ecm08vg_h7BPmaY2naDXuF0jc4-n2r/view?usp=sharing
       - image: me_london.jpeg
-        subtitle: Click here to find out more
+        subtitle: Click here to know more about me
         title: A little about me
         url: blogs/about_me
       - image: rent_sf.jpeg
         subtitle: More about the rental analysis project
-        title: San Fransisco Rent Analysis
-        url: blogs/magna
-      - image: imdb.jpeg
-        subtitle: More about the movies analysis project
-        title: IMDB Movies Analysis
-        url: blogs/tempus
-      # - image: pic05.jpg
-      #   subtitle: Ipsum Dolor Sit Amet
-      #   title: Project 5
-      #   url: blogs/ipsum
-      # - image: pic06.jpg
-      #   subtitle: Feugiat Amet Tempus
-      #   title: Project 6
-      #   url: blogs/ipsum
+        title: San Francisco Rent Analysis
+        url: blogs/rent_sf
+      - image: climate_ch.jpeg
+        subtitle: More about the climate change analysis project
+        title: Climate Change Analysis
+        url: blogs/climate
+      - image: pic05.jpg
+        subtitle: Ipsum Dolor Sit Amet
+        title: Project 5
+        url: blogs/ipsum
+      - image: pic06.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Project 6
+        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes

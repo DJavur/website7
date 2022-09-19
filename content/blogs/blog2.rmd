@@ -7,8 +7,8 @@ categories:
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: magna
-title: Magna
+slug: rent_sf
+title: San Francisco Rent Analysis
 ---
 
 ```{r, setup, echo=FALSE}
