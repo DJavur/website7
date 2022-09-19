@@ -41,12 +41,12 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-       label: Twitter
-      url: https://www.twitter.com
-      - icon: fa-facebook
-      label: Facebook
-      url: https://www.facebook.com
+      # - icon: fa-twitter
+      #  label: Twitter
+      # url: https://www.twitter.com
+      # - icon: fa-facebook
+      # label: Facebook
+      # url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/dishajavur/?hl=en
@@ -70,10 +70,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      # - name: Generic Blog
+      #   url: blogs/ipsum
+      # - name: Elements
+      #   url: elements.html
     menu: Menu
     subtitle: Portfolio website
     title: Disha Javur's
@@ -96,16 +96,16 @@ params:
         subtitle: More about the climate change analysis project
         title: Climate Change Analysis
         url: blogs/climate
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Project 5
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Project 6
-        url: blogs/ipsum
+      # - image: pic05.jpg
+      #   subtitle: Ipsum Dolor Sit Amet
+      #   title: Project 5
+      #   url: blogs/ipsum
+      # - image: pic06.jpg
+      #   subtitle: Feugiat Amet Tempus
+      #   title: Project 6
+      #   url: blogs/ipsum
   two:
-    buttonText: Get Started
+    # buttonText: Get Started
     enable: yes
     subtitle: "My experience during my undergraduate studies and as an analyst has broadened my knowledge in terms of business and people skills. \n 
     Through my work in one of the fastest-growing AI and analytics startups in India, 
