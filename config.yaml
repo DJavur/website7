@@ -87,7 +87,7 @@ params:
       - image: sunset.jpeg
         subtitle: Click here to find out more
         title: A little about me
-        url: blogs/blog1
+        url: blogs/about_me
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Project 1

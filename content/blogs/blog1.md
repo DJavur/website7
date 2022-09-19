@@ -7,7 +7,7 @@ description: ""
 draft: false
 image: scooby_pic_2.jpeg
 keywords: ""
-slug: about me
+slug: about_me
 title: About me
 ---
 
