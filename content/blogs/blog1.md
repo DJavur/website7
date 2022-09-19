@@ -22,7 +22,7 @@ I have had a very holistic upbringing with due diligence paid to both academics 
 4. Badminton 
 5. Handball
 
-In addition, I enjoy adventure sports as well and have done river-rafting, trekking, surfing, and paragliding. Even during my undergrad, I was part of several clubs. Through these various endeavours, I have developed a strong sense of team-building and interpersonal skills. Apart from sports, I like to read and draw. I’ve read more than a 1000 books and I truly believe everyone should have a habit of reading as its a great way to help us to hone our imaginative skills. 
+In addition, I enjoy adventure sports as well and have done river-rafting, trekking, surfing, and paragliding. Even during my undergraduation, I was part of several clubs. Through these various endeavours, I have developed a strong sense of team-building and interpersonal skills. Apart from sports, I like to read and draw. I’ve read more than a 1000 books and I truly believe everyone should have a habit of reading as its a great way to help us to hone our imaginative skills. 
 
 After high school, I took up engineering and have a degree in Instrumentation and Control Engineering from Manipal Institute of Technology, India. Going to an engineering college taught me a lot and helped me grow personally and professionally. Post college, I worked as an analyst for one of the fastest AI and analytics start-ups in India. Here, I worked on several different projects, including one in which I worked directly with the clients of a multibillion-dollar corporation, giving me the confidence to work with people of varying levels of experience and the ability to comprehend business from a technical standpoint. 
 
