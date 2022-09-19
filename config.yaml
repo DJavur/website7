@@ -69,7 +69,7 @@ params:
       - name: Home
         url: '#'
       - name: About me
-        url: blog/about_me
+        url: blogs/about_me
       - name: CV
         url: https://drive.google.com/file/d/11-Ecm08vg_h7BPmaY2naDXuF0jc4-n2r/view?usp=sharing
       - name: San Francisco Rent Analysis
