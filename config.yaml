@@ -89,9 +89,9 @@ params:
         title: A little about me
         url: blogs/about_me
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
+        subtitle: More about the Renatl Analysis project
         title: Project 1
-        url: blogs/magna
+        url: blogs/rent_sf
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Project 2
