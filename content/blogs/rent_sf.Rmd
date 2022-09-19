@@ -5,9 +5,9 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: scooby_pic_2.jpeg
+image: sf.jpeg
 keywords: ""
-slug: rent_sf_1
+slug: rent_sf
 title: Rental Analysis
 ---
 

@@ -84,14 +84,14 @@ params:
         subtitle: A look at my academics, extracurriculars and professional achievements
         title: My Resume
         url: https://drive.google.com/file/d/13fm72R-787M34Gv7PEwAWuMhrDz1_L4R/view?usp=sharing
-      - image: me_2.jpeg
+      - image: me_london.jpeg
         subtitle: Click here to find out more
         title: A little about me
         url: blogs/about_me
       - image: rent_sf.jpeg
         subtitle: More about the rental analysis project
         title: San Fransisco Rent Analysis
-        url: blogs/rent_sf_1
+        url: blogs/rent_sf
       - image: imdb.jpeg
         subtitle: More about the movies analysis project
         title: IMDB Movies Analysis
