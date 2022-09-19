@@ -89,7 +89,7 @@ params:
         title: A little about me
         url: blogs/about_me
       - image: pic03.jpg
-        subtitle: More about the Renatl Analysis project
+        subtitle: More about the Rental Analysis project
         title: Project 1
         url: blogs/rent_sf
       - image: pic04.jpg
