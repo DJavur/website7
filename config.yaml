@@ -107,8 +107,14 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "So far London Business School has been nothing short of amazing 
-      \n    Although the MAM program is very rigorous, the courses are interesting but most importantly, they are extremely relevant. \n  
-      I'm hoping to leverage this opportunity to meet some truely amazing people and make great connections."
-    title: My LBS experience so far
+    subtitle: "My experience during my undergraduate studies and as an analyst has broadened my knowledge in terms of business and people skills. \n 
+    Through my work in one of the fastest-growing AI and analytics startups in India, 
+    I believe my cross-functional work experiences working for clients from across the globe have helped me build on my management and strategic skills. \n 
+    During my time at TheMathCompany, working directly with clients to handle their day-to-day triggers and optimizing their existing models gave me a deeper 
+    understanding of multiple fields under marketing and customer acquisition. \n 
+    I believe my experiences in a start-up will be my key contributors in this everchanging entrepreneurial world. \n 
+    My ability to get into any role during the need of the hour has made me more open-minded and helped me understand how to make the best of an opportunity. \n 
+    I aim to bring this go-getter attitude, entrepreneurial spirit to the program and also wish to 
+    learn from the experiences of my peers. "
+    title: How my past experiences have shaped me
     url: blogs
