@@ -13,7 +13,7 @@ params:
   blog: {}
   contact: 
     address:
-      - city: London, ST NW1 6BS
+      - city: London, ST NW16BS
         country: United Kingdom
         street: Ivor Court, Gloucester Place
         title: Address
