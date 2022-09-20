@@ -363,7 +363,6 @@ skimr::skim(rent)</code></pre>
 ##                    
 ## </code></pre>
 <p>Make a plot that shows the top 20 cities in terms of % of classifieds between 2000-2018. You need to calculate the number of listings by city, and then convert that number to a %.</p>
-<p>The final graph should look like this<img src="images/top_cities.png" /></p>
 <pre class="r"><code># YOUR CODE GOES HERE
 rent %&gt;% 
   count(city, sort=TRUE) %&gt;% 
@@ -378,8 +377,7 @@ rent %&gt;%
        caption = &quot;Source: Pennington, Kate (2018). Bay Area Craigslist Rental Housing Posts, 2000-2018&quot;, y = &quot;City&quot;, x = element_blank()) +
   scale_x_continuous(labels = scales::percent)</code></pre>
 <p><img src="/blogs/blog2_files/figure-html/top_cities-1.png" width="648" style="display: block; margin: auto;" /></p>
-<p>Make a plot that shows the evolution of median prices in San Francisco for 0, 1, 2, and 3 bedrooms listings. The final graph should look like this</p>
-<p><img src="images/sf_rentals.png" /></p>
+<p>Make a plot that shows the evolution of median prices in San Francisco for 0, 1, 2, and 3 bedrooms listings.</p>
 <pre class="r"><code># YOUR CODE GOES HERE
 rent %&gt;%
   filter(city == &quot;san francisco&quot;, beds&lt;=3) %&gt;%
@@ -394,8 +392,7 @@ ggplot( mapping=aes(x=year, y=median_price, colour = factor(beds))) +
        subtitle = &quot;0- to 3-bed listings, 2000-2018&quot;, 
        caption = &quot;Source: Pennington, Kate (2018). Bay Area Craigslist Rental Housing Posts, 2000-2018&quot;, y = element_blank(), x = element_blank())</code></pre>
 <p><img src="/blogs/blog2_files/figure-html/sf_median_prices-1.png" width="648" style="display: block; margin: auto;" /></p>
-<p>Finally, make a plot that shows median rental prices for the top 12 cities in the Bay area. Your final graph should look like this</p>
-<p><img src="images/one_bed_bay_area.png" /></p>
+<p>Finally, make a plot that shows median rental prices for the top 12 cities in the Bay area.</p>
 <pre class="r"><code># YOUR CODE GOES HERE
 rent %&gt;%
   filter(city %in% c(&quot;san francisco&quot;, &quot;san jose&quot;, &quot;oakland&quot;, &quot;santa rosa&quot;, &quot;santa cruz&quot;, &quot;san mateo&quot;, &quot;sunnyvale&quot;, &quot;mountain view&quot;, &quot;berkeley&quot;, &quot;santa clara&quot;, &quot;palo alto&quot;, &quot;union city&quot;), beds == 1)%&gt;%
