@@ -60,7 +60,6 @@ summary(rent)
 
 Make a plot that shows the top 20 cities in terms of % of classifieds between 2000-2018. You need to calculate the number of listings by city, and then convert that number to a %.
 
-The final graph should look like this![](images/top_cities.png)
 
 ```{r top_cities}
 # YOUR CODE GOES HERE
@@ -79,9 +78,7 @@ rent %>%
   
 ```
 
-Make a plot that shows the evolution of median prices in San Francisco for 0, 1, 2, and 3 bedrooms listings. The final graph should look like this
-
-![](images/sf_rentals.png)
+Make a plot that shows the evolution of median prices in San Francisco for 0, 1, 2, and 3 bedrooms listings. 
 
 ```{r sf_median_prices}
 # YOUR CODE GOES HERE
