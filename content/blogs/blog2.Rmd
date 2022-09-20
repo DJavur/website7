@@ -100,9 +100,7 @@ ggplot( mapping=aes(x=year, y=median_price, colour = factor(beds))) +
 
 ```
 
-Finally, make a plot that shows median rental prices for the top 12 cities in the Bay area. Your final graph should look like this
-
-![](images/one_bed_bay_area.png)
+Finally, make a plot that shows median rental prices for the top 12 cities in the Bay area.
 
 ```{r spirit_plot}
 # YOUR CODE GOES HERE
